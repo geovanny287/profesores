@@ -1,0 +1,37 @@
+[
+{
+"nombre":"ARTURO MAURICIO",
+"apellido":"PALOMINO PALACIOS",
+"cedula":"0302093901",
+"sexo":"Masculino",
+"direccion":"azogues"
+},
+{
+"nombre":"WILSON JAVIER",
+"apellido":"ROMERO GUILLEN ",
+"cedula":"0301938049",
+"sexo":"Masculino",
+"direccion":"Cuenca"
+},
+{
+"nombre":"MAYRA ALEXANDRA",
+"apellido":"MOLINA ANDRADE ",
+"cedula":"0105387708",
+"sexo":"Femenino",
+"direccion":"Cuenca"
+},
+{
+"nombre":"CRISTINA LEONOR",
+"apellido":"CUENCA CUENCA ",
+"cedula":"0301805297",
+"sexo":"Femenino",
+"direccion":"Azogues"
+},
+{
+"nombre":"JUAN PABLO",
+"apellido":"ARAUJO CORTEZ ",
+"cedula":"0104708235",
+"sexo":"Masculino",
+"direccion":"Cuenca"
+}
+]
